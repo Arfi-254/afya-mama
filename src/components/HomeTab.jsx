@@ -107,3 +107,4 @@ const HomeTab = ({ currentWeek, appointments }) => {
     </div>
   );
 };
+export default HomeTab
